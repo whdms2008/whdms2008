@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/whdms2008/gratitude_diary) 
 [![python](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Python&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 <br>
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)  [![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white)](https://github.com/Joowon0220/Spring_Weather) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
+  
 <br><br><br>
 
 ## 💫 m e 
