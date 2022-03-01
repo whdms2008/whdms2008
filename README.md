@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## 🌹 t e c h 🌹
+## 🌹 S K I L L 🌹
 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/whdms2008/gratitude_diary) 
