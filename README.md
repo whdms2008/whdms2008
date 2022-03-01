@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## ⚡ S K I L L ⚡
+⚡ S K I L L ⚡
 
-
+## 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/whdms2008/gratitude_diary) 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/whdms2008/gratitude_diary) 
