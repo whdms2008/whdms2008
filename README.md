@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/whdms2008/gratitude_diary) 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/whdms2008/gratitude_diary) 
-[![python](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Python&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
+[![python](https://img.shields.io/badge/Python-FF3E00?style=flat-square&logo=Python&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 <br>
   
 <br><br><br>
