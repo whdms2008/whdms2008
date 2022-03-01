@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## 🌹 S K I L L 🌹
+## ⚡ S K I L L ⚡
 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/whdms2008/gratitude_diary) 
@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 <br>
   
 <br><br><br>
-
-## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://321coucou.tistory.com/)  [![Code Pen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/joowon0220) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joowon@gmail.com)
-<br><br><br>
-
 
 ### 💌  t o d a y 
 
