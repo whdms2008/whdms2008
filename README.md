@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 [![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 <br>
 [![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
+[![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 <br><br>
 ##
 <br><br>
