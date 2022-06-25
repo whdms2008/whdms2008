@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/whdms2008/gratitude_diary) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 [![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
-<br>
 [![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
+<br>
 <br><br>
 ##
 <br><br>
