@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ##
 <br><br>
 ![JoEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdms2008&show_icons=true&theme=radical)
-[![Solved.ac프로필]http://mazassumnida.wtf/api/v2/generate_badge?boj=whdms1107)](https://solved.ac/whdms1107)
+![[Solved.ac프로필]http://mazassumnida.wtf/api/v2/generate_badge?boj=whdms1107)](https://solved.ac/whdms1107)
 </div>
