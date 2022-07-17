@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 [![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
 [![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)](https://github.com/whdms2008/gratitude_diary)
-<br><br>
 ##
-<br><br>
+<hr/>
 ![JoEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdms2008&show_icons=true&theme=radical)
 <br><br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdms1107)](https://solved.ac/whdms1107)
