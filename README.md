@@ -2,11 +2,6 @@
 
 <div align="center">
 
-## 👋 안녕하세요! 환영합니다!
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&lines=부족한+실력이지만+최선을+다하겠습니다.)
-
-
 ## ⚡ S K I L L S ⚡
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/whdms2008/gratitude_diary) 
@@ -38,11 +33,7 @@
 </div>
 
 <hr/>
-## 📈 Github 잔디 그래프
 
-![잔디](https://github-readme-activity-graph.cyclic.app/graph?username=whdms2008&theme=react-dark&hide_border=true&area=true)
-
-<hr/>
 ## 🌐 Link
 
 <div align="center">
