@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👶애기프로그래머👶&fontSize=50)
+
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👶애기프로그래머👶&fontSize=50)
+
+</div>
 
 <div align="center">
 
@@ -20,7 +25,11 @@
 
 ## 🌟 Algorithm
 
+<div align="center">
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdms1107)](https://solved.ac/whdms1107)
+
+</div>
 
 <hr/>
 
