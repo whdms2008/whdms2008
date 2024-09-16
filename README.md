@@ -62,15 +62,6 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-
-<div align="center">
-
-![snake gif](https://github.com/whdms2008/whdms2008/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 <h2 align="center">🌐 Links 🌐</h2>
 
@@ -83,8 +74,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=whdms2008&color=blue&style=flat-square)
-</p>
