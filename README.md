@@ -26,25 +26,6 @@
 
 <br/>
 
-## 🏆 Problem Solving
-
-<div align="center">
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdms1107)](https://solved.ac/whdms1107)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whdms2008&show_icons=true&theme=nord&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdms2008&layout=compact&theme=nord&hide_border=true"/>
-</div>
-
-<br/>
-
 ## 📫 Contact
 
 <div align="center">
