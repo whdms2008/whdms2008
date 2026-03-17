@@ -28,11 +28,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:whdms1107@gmail.com)
 
 </div>
-
-<br/>
-
-<div align="center">
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
-
-</div>
