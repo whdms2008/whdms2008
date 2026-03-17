@@ -1,9 +1,3 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=🐤개발자%20지망생🐤&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
-</div>
-
 ## 🌱 About Me
 
 **"일상속 불편함을 기술로 해결하는 개발자"**
