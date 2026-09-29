@@ -26,9 +26,6 @@
 ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS SSM](https://img.shields.io/badge/AWS_SSM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
 <br/>
 
 ## 📫 Contact
