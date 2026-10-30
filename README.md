@@ -9,7 +9,7 @@
 
 작은 문제를 발견하고, 실용적인 서비스로 구현합니다.
 
-[Blog](https://whdms1107.tistory.com/) · [Email](mailto:whdms1107@gmail.com) whdms1107@gmail.com
+[Blog](https://whdms1107.tistory.com/) · [Email](mailto:whdms1107@gmail.com)
 
 </div>
 
