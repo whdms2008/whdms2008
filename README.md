@@ -19,20 +19,29 @@
 
 문제를 발견하고 해결하는 과정에 가치를 두고 있습니다.
 
-Java와 Spring을 중심으로 백엔드 개발을 공부하고 있으며,
-실제 서비스 구현과 운영 경험을 쌓아가고 있습니다.
+Java와 Spring을 중심으로 백엔드 개발을 공부하고 있으며, 실제 서비스 구현과 운영 경험을 쌓아가고 있습니다.
 
 ## 02. Tech Stack
 
-**Backend & Database**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 **Infrastructure & Cloud**
 
 <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
 
 `AWS EC2` · `Amazon S3` · `AWS Systems Manager`
+
+---
 
 ## 03. Project
 
@@ -44,4 +53,5 @@ Java와 Spring을 중심으로 백엔드 개발을 공부하고 있으며,
 `Java` `Spring Boot` `Python` `Django` `MySQL` `AWS`
 
 [서비스 바로가기](SERVICE_URL)
-</div>
+
+---
