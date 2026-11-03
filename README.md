@@ -52,6 +52,6 @@ Java와 Spring을 중심으로 백엔드 개발을 공부하고 있으며, 실�
 
 `Java` `Spring Boot` `Python` `Django` `MySQL` `AWS`
 
-[서비스 바로가기](SERVICE_URL)
+[서비스 바로가기](https://myrewrite.org) 
 
 ---
